@@ -4,7 +4,7 @@
 	label {
 		display: inline-block;
 		color: black;
-		background: rgb(128, 67, 67);
+		background: gray;
 		margin-right: 15px;
 		margin-left: 20px;
 		font-size: 1.3em;
@@ -40,13 +40,13 @@
 	}
 	
 	#input-email {
-		background-color: lightgray;
+		background-color: gray;
 		margin-top: 15px;
 		text-align: center;
 	}
 
 	#input-age-verification {
-		background-color: lightgray;
+		background-color: gray;
 		margin-top: 10px;
 		margin-bottom: 10px;
 		text-align: center;
@@ -64,7 +64,7 @@
 	label {
 		display: inline-block;
 		color: black;
-		background: lightgray;
+		background: gray;
 		margin-right: 15px;
 		margin-left: 20px;
 		font-size: 1.3em;
@@ -100,12 +100,12 @@
 	}
 	
 	#input-email {
-		background-color: lightgray;
+		background-color: gray;
 		margin-top: 15px;
 	}
 
 	#input-age-verification {
-		background-color: lightgray;
+		background-color: gray;
 		margin-top: 15px;
 		margin-bottom: 15px;
 
